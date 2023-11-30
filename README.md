@@ -26,3 +26,7 @@ There's a few ways you can help:
 ## Building
 
 BellGuardian was made using Visual Studio 2022, so build with that. 
+
+## Learn more about BellMinder
+
+Check the [Wiki](https://github.com/graydav1/BellGuardian/wiki) for all the information I have about the BellMinder software and hardware.
